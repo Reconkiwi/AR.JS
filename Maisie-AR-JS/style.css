@@ -1,0 +1,48 @@
+.screen_1_cont {
+
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.button {
+
+    font-family: 'Roboto Condensed', sans-serif;
+    display: inline;
+    font-size: 6vw;
+    text-decoration: none;
+    color: black;
+    border: 2px solid black;
+    padding: 1.5vw;
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.title {
+  text-align: center;
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 8vw;
+}
+
+.screen_1_img {
+
+    width: 60vw;
+    height: auto;
+    margin-left: 20vw;
+    margin-right: 20vw;
+}
+
+
+body {
+
+    width: 100vw;
+    background-color: #fffafa;
+
+}
